@@ -4,3 +4,5 @@ The main aim of this Artificial Neural Network project is to give an idea about 
 This Artificial Neural Network project only for the beginner, who have no/minimum idea about the working principle of Artificial Neural Network.
 
 # For more information please write me in my email at babulcseian@gmail.com
+
+
